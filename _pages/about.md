@@ -11,7 +11,9 @@ redirect_from:
 
 Hello!
 
-I'm a researcher at OpenAI.
+I'm a researcher at OpenAI, where I co-lead the Post-training Frontiers team with the amazing [Eric Mitchell](https://ericmitchell.ai/).
+Our team focuses on training and deploying models that are maximally useful in productive/professional usecases (eg o1, o3, GPT-5 thinking etc).
+
 Previously, I was a PhD student in machine learning at Stanford University co-advised by [Percy Liang](https://cs.stanford.edu/~pliang/) and [Tatsu Hashimoto](https://thashim.github.io/) and funded by a [Knights-Hennessy Scholarship](https://knight-hennessy.stanford.edu/).
 Before that I traveled around and did some research at the [Vector Institute](https://vectorinstitute.ai/) did my AI residency at [Facebook AI](https://research.fb.com/programs/facebook-ai-residency-program/), and worked in different startups including [Grab](https://en.wikipedia.org/wiki/Grab_(company)) where I was designing algorithms to analyze text in under-research languages (Thai, Khmer, Burmese, ...) before LLMs were a thing.
 

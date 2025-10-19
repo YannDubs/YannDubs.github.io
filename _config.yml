@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yann Dubois"
 title_separator          : "-"
 name                     : &name "Yann Dubois"
-description              : &description "PhD in Machine Learning at Stanford"
+description              : &description "AI Research @ OpenAI"
 url                      : https://yanndubs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YannDubs/YannDubs.github.io"
@@ -86,11 +86,11 @@ author:
   name             : *name
   avatar           : "profile.jpg"
   bio              : "PhD student in Machine Learning"
-  location         : "Stanford, California"
+  location         : "San Francisco, California"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=bfM1kzAAAAAJ&hl"
-  email            : yanndubs@stanford.edu
+  email            : yanndubois96@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
