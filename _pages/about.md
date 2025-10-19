@@ -19,6 +19,7 @@ Before that I traveled around and did some research at the [Vector Institute](ht
 
 Outside of machine learning I spend my time exercising with friends (:ski:,:mountain:,:badminton:,:volleyball:,:runner:), traveling, or reading about geopolitics.
 
+Note: please do not contact me about quant jobs, I'm not interested.
 <!-- News
 ======
 - May 2021: Incredibly honored to have been selected as a [Knights-Hennessy Scholar](https://knight-hennessy.stanford.edu/).
