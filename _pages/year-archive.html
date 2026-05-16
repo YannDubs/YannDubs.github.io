@@ -9,6 +9,11 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+<div class="notice--warning" markdown="1">
+**Disclaimer:** This is very old documentation and may be significantly out of date. Content here is preserved for archival purposes and may no longer reflect current best practices or my present views.
+</div>
+
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}

@@ -85,7 +85,7 @@ analytics:
 author:
   name             : *name
   avatar           : "profile.jpg"
-  bio              : "PhD student in Machine Learning"
+  bio              : "Research Scientist at OpenAI"
   location         : "San Francisco, California"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
