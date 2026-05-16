@@ -24,8 +24,13 @@ Featured talks
 
 <div style="display: flex; flex-wrap: wrap; gap: 1em; margin-bottom: 1em;">
   <div style="flex: 1 1 30%; min-width: 240px;">
-    <iframe style="width: 100%; aspect-ratio: 16/9; border: 0;" src="https://www.youtube.com/embed/9vM4p9NN0Ts" title="Stanford lecture on building LLMs" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    <p style="font-size: 0.9em; margin: 0.3em 0 0;">Stanford lecture on building LLMs</p>
+    <a href="https://www.youtube.com/watch?v=9vM4p9NN0Ts" target="_blank" rel="noopener" style="display: block; position: relative; aspect-ratio: 16/9; overflow: hidden;">
+      <img src="https://img.youtube.com/vi/9vM4p9NN0Ts/maxresdefault.jpg" alt="Stanford lecture on building LLMs" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+      <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 68px; height: 48px; background: rgba(0,0,0,0.75); border-radius: 12px; display: flex; align-items: center; justify-content: center;">
+        <span style="width: 0; height: 0; border-left: 18px solid white; border-top: 11px solid transparent; border-bottom: 11px solid transparent; margin-left: 4px;"></span>
+      </span>
+    </a>
+    <p style="font-size: 0.9em; margin: 0.3em 0 0;">Stanford lecture on LLMs</p>
   </div>
   <div style="flex: 1 1 30%; min-width: 240px;">
     <iframe style="width: 100%; aspect-ratio: 16/9; border: 0;" src="https://www.youtube.com/embed/0Uu_VJeVVfo?start=1048" title="GPT-5 release video" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
