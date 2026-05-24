@@ -20,7 +20,10 @@
   </div>
 
   <div class="author__urls-wrapper">
-    <button class="btn btn--inverse">Follow</button>
+    <button class="btn btn--inverse author__urls-toggle" type="button">
+      <i class="fas fa-link" aria-hidden="true"></i>
+      <span>Links</span>
+    </button>
     <ul class="author__urls social-icons">
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>

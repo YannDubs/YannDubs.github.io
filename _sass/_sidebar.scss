@@ -151,8 +151,15 @@
     display: block;
   }
 
-  button {
+  .author__urls-toggle {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
     margin-bottom: 0;
+
+    i {
+      margin-right: 0.35em;
+    }
 
     @include breakpoint($large) {
       display: none;

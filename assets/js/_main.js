@@ -50,7 +50,7 @@ $(document).ready(function(){
     stickySideBar();
   });
 
-  // Follow menu drop down
+  // Author links menu drop down
 
   $(".author__urls-wrapper button").on("click", function() {
     $(".author__urls").fadeToggle("fast", function() {});
