@@ -22,26 +22,37 @@ Note: please do not contact me about quant jobs; I'm not interested regardless o
 Featured talks
 ======
 
-<div style="display: flex; flex-wrap: wrap; gap: 1em; margin-bottom: 1em;">
-  <div style="flex: 1 1 22%; min-width: 240px;">
-    <a href="https://www.youtube.com/watch?v=9vM4p9NN0Ts" target="_blank" rel="noopener" style="display: block; position: relative; aspect-ratio: 16/9; overflow: hidden;">
-      <img src="https://img.youtube.com/vi/9vM4p9NN0Ts/maxresdefault.jpg" alt="Stanford lecture on building LLMs" style="width: 100%; height: 100%; object-fit: cover; display: block;">
-      <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 68px; height: 48px; background: rgba(0,0,0,0.75); border-radius: 12px; display: flex; align-items: center; justify-content: center;">
-        <span style="width: 0; height: 0; border-left: 18px solid white; border-top: 11px solid transparent; border-bottom: 11px solid transparent; margin-left: 4px;"></span>
-      </span>
-    </a>
-    <p style="font-size: 0.9em; margin: 0.3em 0 0;">Stanford lecture on LLMs</p>
-  </div>
-  <div style="flex: 1 1 22%; min-width: 240px;">
-    <iframe style="width: 100%; aspect-ratio: 16/9; border: 0;" src="https://www.youtube.com/embed/0Uu_VJeVVfo?start=1048" title="GPT-5 release video" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    <p style="font-size: 0.9em; margin: 0.3em 0 0;">GPT-5 release</p>
-  </div>
-  <div style="flex: 1 1 22%; min-width: 240px;">
-    <iframe style="width: 100%; aspect-ratio: 16/9; border: 0;" src="https://www.youtube.com/embed/r1qZpYAmqmg" title="Agentic AI MOOC" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    <p style="font-size: 0.9em; margin: 0.3em 0 0;">Agentic AI MOOC</p>
-  </div>
-  <div style="flex: 1 1 22%; min-width: 240px;">
-    <iframe style="width: 100%; aspect-ratio: 16/9; border: 0;" src="https://www.youtube.com/embed/DhD1zZ8w8Mw" title="MAD coast" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    <p style="font-size: 0.9em; margin: 0.3em 0 0;">MAD coast</p>
-  </div>
+<div class="featured-talks-grid">
+  <a class="featured-talk-card" href="https://www.youtube.com/watch?v=9vM4p9NN0Ts" target="_blank" rel="noopener" aria-label="Watch Stanford lecture on LLMs on YouTube">
+    <span class="featured-talk-card__media">
+      <img src="https://img.youtube.com/vi/9vM4p9NN0Ts/maxresdefault.jpg" alt="Stanford lecture on building LLMs" loading="lazy">
+      <span class="featured-talk-card__play" aria-hidden="true"></span>
+    </span>
+    <span class="featured-talk-card__title">Stanford lecture on LLMs</span>
+    <span class="featured-talk-card__meta">Stanford · Lecture</span>
+  </a>
+  <a class="featured-talk-card" href="https://www.youtube.com/watch?v=0Uu_VJeVVfo&t=1048s" target="_blank" rel="noopener" aria-label="Watch GPT-5 release on YouTube">
+    <span class="featured-talk-card__media">
+      <img src="https://img.youtube.com/vi/0Uu_VJeVVfo/maxresdefault.jpg" alt="GPT-5 release video" loading="lazy">
+      <span class="featured-talk-card__play" aria-hidden="true"></span>
+    </span>
+    <span class="featured-talk-card__title">GPT-5 release</span>
+    <span class="featured-talk-card__meta">OpenAI · Launch</span>
+  </a>
+  <a class="featured-talk-card" href="https://www.youtube.com/watch?v=r1qZpYAmqmg" target="_blank" rel="noopener" aria-label="Watch Agentic AI MOOC on YouTube">
+    <span class="featured-talk-card__media">
+      <img src="https://img.youtube.com/vi/r1qZpYAmqmg/maxresdefault.jpg" alt="Agentic AI MOOC" loading="lazy">
+      <span class="featured-talk-card__play" aria-hidden="true"></span>
+    </span>
+    <span class="featured-talk-card__title">Agentic AI MOOC</span>
+    <span class="featured-talk-card__meta">Berkeley RDI · Course</span>
+  </a>
+  <a class="featured-talk-card" href="https://www.youtube.com/watch?v=DhD1zZ8w8Mw" target="_blank" rel="noopener" aria-label="Watch MAD Podcast on YouTube">
+    <span class="featured-talk-card__media">
+      <img src="https://img.youtube.com/vi/DhD1zZ8w8Mw/maxresdefault.jpg" alt="MAD Podcast interview" loading="lazy">
+      <span class="featured-talk-card__play" aria-hidden="true"></span>
+    </span>
+    <span class="featured-talk-card__title">MAD Podcast</span>
+    <span class="featured-talk-card__meta">Podcast · Interview</span>
+  </a>
 </div>
