@@ -28,8 +28,8 @@ Featured talks
       <img src="https://img.youtube.com/vi/9vM4p9NN0Ts/maxresdefault.jpg" alt="Stanford lecture on building LLMs" loading="lazy">
       <span class="featured-talk-card__play" aria-hidden="true"></span>
     </span>
-    <span class="featured-talk-card__title">Stanford lecture on LLMs</span>
-    <span class="featured-talk-card__meta">Stanford · Lecture</span>
+    <span class="featured-talk-card__title">Building LLMs</span>
+    <span class="featured-talk-card__meta">Stanford · 2024</span>
   </a>
   <a class="featured-talk-card" href="https://www.youtube.com/watch?v=0Uu_VJeVVfo&t=1048s" target="_blank" rel="noopener" aria-label="Watch GPT-5 release on YouTube">
     <span class="featured-talk-card__media">
@@ -37,22 +37,22 @@ Featured talks
       <span class="featured-talk-card__play" aria-hidden="true"></span>
     </span>
     <span class="featured-talk-card__title">GPT-5 release</span>
-    <span class="featured-talk-card__meta">OpenAI · Launch</span>
+    <span class="featured-talk-card__meta">OpenAI · 2025</span>
   </a>
-  <a class="featured-talk-card" href="https://www.youtube.com/watch?v=r1qZpYAmqmg" target="_blank" rel="noopener" aria-label="Watch Agentic AI MOOC on YouTube">
+  <a class="featured-talk-card" href="https://www.youtube.com/watch?v=r1qZpYAmqmg&t=0s" target="_blank" rel="noopener" aria-label="Watch Agentic AI MOOC on YouTube">
     <span class="featured-talk-card__media">
       <img src="https://img.youtube.com/vi/r1qZpYAmqmg/maxresdefault.jpg" alt="Agentic AI MOOC" loading="lazy">
       <span class="featured-talk-card__play" aria-hidden="true"></span>
     </span>
-    <span class="featured-talk-card__title">Agentic AI MOOC</span>
-    <span class="featured-talk-card__meta">Berkeley RDI · Course</span>
+    <span class="featured-talk-card__title">LLM Agents</span>
+    <span class="featured-talk-card__meta">Berkeley · 2025</span>
   </a>
   <a class="featured-talk-card" href="https://www.youtube.com/watch?v=DhD1zZ8w8Mw" target="_blank" rel="noopener" aria-label="Watch MAD Podcast on YouTube">
     <span class="featured-talk-card__media">
       <img src="https://img.youtube.com/vi/DhD1zZ8w8Mw/maxresdefault.jpg" alt="MAD Podcast interview" loading="lazy">
       <span class="featured-talk-card__play" aria-hidden="true"></span>
     </span>
-    <span class="featured-talk-card__title">MAD Podcast</span>
-    <span class="featured-talk-card__meta">Podcast · Interview</span>
+    <span class="featured-talk-card__title">AI Progress</span>
+    <span class="featured-talk-card__meta">MAD Podcast · 2026</span>
   </a>
 </div>
